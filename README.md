@@ -6,6 +6,7 @@ This project demonstrates the implementation of six classic sorting algorithms i
 
 ## 📁 Project Structure
 
+'''
 .
 ├── bouble-sort/
 ├── counting-sort/
@@ -17,7 +18,7 @@ This project demonstrates the implementation of six classic sorting algorithms i
 ├── main.cpp
 ├── .gitignore
 └── README.md
-
+'''
 
 - Each sort folder may contain individual test or usage files.
 - All core implementations are in `namespaceSorts.cpp` inside a `sort` namespace.
