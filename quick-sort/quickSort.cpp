@@ -8,7 +8,7 @@ void swap(int& a, int& b) {
 }
 
 int partition(std::vector<int>& arr, int low, int high){
-    int pivot = high;
+    int pivot = arr[high];
     int i = (low - 1);
 
     for(int j = low; j <= high; j++){
